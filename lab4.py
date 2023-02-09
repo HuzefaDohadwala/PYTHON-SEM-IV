@@ -26,6 +26,7 @@ sum= 150
 '''
 
 '''For a given seq of n values x1,x2..... , a window of size k>0
+k=n-k+1 '''
 l2 =[]
 k=0
 outval=0
